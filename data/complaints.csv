@@ -1,0 +1,59 @@
+complaint,category,priority,location
+Fan in room 204 is not working and students are struggling in the heat.,Electrical,High,Room 204
+The lights in lab 2 keep flickering.,Electrical,Medium,Lab 2
+Power socket near the library computers is broken.,Electrical,Medium,Library
+The projector power connection in classroom 12 is damaged.,Electrical,Medium,Classroom 12
+There is no electricity in hostel block A.,Electrical,High,Hostel Block A
+The classroom tube light has been dead for a week.,Electrical,Low,Classroom
+Washroom near the canteen is extremely dirty.,Cleanliness,High,Canteen
+Garbage has not been collected from hostel block B.,Cleanliness,High,Hostel Block B
+The corridor floor is dirty every morning.,Cleanliness,Medium,Corridor
+Dustbins outside the library are overflowing.,Cleanliness,Medium,Library
+The classroom windows need cleaning.,Cleanliness,Low,Classroom
+The hostel common room has not been cleaned.,Cleanliness,Medium,Hostel
+Campus WiFi is down in the computer lab.,Internet,High,Computer Lab
+Internet is very slow in hostel block C.,Internet,Medium,Hostel Block C
+The WiFi disconnects every few minutes in the library.,Internet,Medium,Library
+No internet connection in classroom 8.,Internet,High,Classroom 8
+The hostel network is unavailable tonight.,Internet,High,Hostel
+WiFi coverage is weak near the canteen.,Internet,Low,Canteen
+The professor has not uploaded the assignment.,Academic,Medium,Online Portal
+The timetable for next week is missing.,Academic,Low,Academic Office
+Marks for my midterm have not been updated.,Academic,Medium,Department
+The projector is needed for tomorrow's lecture.,Academic,Low,Classroom
+There is a mistake in the examination schedule.,Academic,High,Examination Office
+Students need clarification about the project deadline.,Academic,Low,Department
+Water is leaking from the hostel bathroom ceiling.,Hostel,High,Hostel
+The hostel room door lock is broken.,Hostel,High,Hostel Room
+There is no hot water in the hostel this morning.,Hostel,Medium,Hostel
+The mattress in my hostel room is damaged.,Hostel,Medium,Hostel Room
+Hostel laundry machines are not working.,Hostel,Medium,Hostel Laundry
+The room allocation list has an error.,Hostel,Low,Hostel Office
+A stranger entered the hostel without an ID.,Security,High,Hostel Gate
+The CCTV camera near gate 2 is not working.,Security,High,Gate 2
+My bicycle was left unlocked near the library.,Security,Medium,Library
+The main gate security queue is too crowded.,Security,Medium,Main Gate
+A suspicious package was found near the auditorium.,Security,High,Auditorium
+The security guard is missing from gate 3.,Security,High,Gate 3
+The campus bus did not arrive at 8 AM.,Transport,High,Main Gate
+The shuttle is always late after evening classes.,Transport,Medium,Campus Shuttle
+The bus stop has no timetable displayed.,Transport,Low,Bus Stop
+The college bus is overcrowded today.,Transport,Medium,Bus Stop
+The driver skipped the usual hostel stop.,Transport,Medium,Hostel
+We need another shuttle during exam week.,Transport,Low,Campus
+A book listed as available cannot be found.,Library,Medium,Library
+The library printer is not working.,Library,Medium,Library
+Library computers are too slow.,Library,Low,Library
+The study room booking system has an error.,Library,Medium,Library
+The library is too noisy during study hours.,Library,Low,Library
+My reserved book was not kept at the counter.,Library,Medium,Library
+The food served at lunch was cold.,Food,Medium,Canteen
+There was a foreign object in my meal.,Food,High,Canteen
+The canteen queue is extremely long.,Food,Medium,Canteen
+The drinking water machine near the cafeteria is broken.,Food,High,Cafeteria
+The food menu has not been updated.,Food,Low,Canteen
+The canteen tables are not cleaned after lunch.,Food,Medium,Canteen
+I found a missing charger near the auditorium.,Other,Low,Auditorium
+The student notice board needs an update.,Other,Low,Student Center
+My ID card replacement request is still pending.,Other,Medium,Student Office
+The elevator is making unusual noise.,Other,High,Main Building

@@ -1,0 +1,136 @@
+{
+  "dataset_rows": 58,
+  "categories": [
+    "Academic",
+    "Cleanliness",
+    "Electrical",
+    "Food",
+    "Hostel",
+    "Internet",
+    "Library",
+    "Other",
+    "Security",
+    "Transport"
+  ],
+  "priorities": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "metrics": {
+    "category": {
+      "accuracy": 0.0833,
+      "report": {
+        "Academic": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 1.0
+        },
+        "Cleanliness": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 1.0
+        },
+        "Electrical": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 1.0
+        },
+        "Food": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 2.0
+        },
+        "Hostel": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 1.0
+        },
+        "Internet": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 1.0
+        },
+        "Library": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 2.0
+        },
+        "Other": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 1.0
+        },
+        "Security": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 1.0
+        },
+        "Transport": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1-score": 0.6666666666666666,
+          "support": 1.0
+        },
+        "accuracy": 0.08333333333333333,
+        "macro avg": {
+          "precision": 0.05,
+          "recall": 0.1,
+          "f1-score": 0.06666666666666667,
+          "support": 12.0
+        },
+        "weighted avg": {
+          "precision": 0.041666666666666664,
+          "recall": 0.08333333333333333,
+          "f1-score": 0.05555555555555555,
+          "support": 12.0
+        }
+      }
+    },
+    "priority": {
+      "accuracy": 0.3333,
+      "report": {
+        "High": {
+          "precision": 0.3333333333333333,
+          "recall": 0.25,
+          "f1-score": 0.2857142857142857,
+          "support": 4.0
+        },
+        "Low": {
+          "precision": 0.5,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.4,
+          "support": 3.0
+        },
+        "Medium": {
+          "precision": 0.2857142857142857,
+          "recall": 0.4,
+          "f1-score": 0.3333333333333333,
+          "support": 5.0
+        },
+        "accuracy": 0.3333333333333333,
+        "macro avg": {
+          "precision": 0.373015873015873,
+          "recall": 0.3277777777777778,
+          "f1-score": 0.33968253968253964,
+          "support": 12.0
+        },
+        "weighted avg": {
+          "precision": 0.35515873015873006,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.3341269841269841,
+          "support": 12.0
+        }
+      }
+    }
+  }
+}
