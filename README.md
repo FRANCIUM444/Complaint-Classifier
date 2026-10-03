@@ -1,4 +1,8 @@
-# AI College Complaint Classifier
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4978&pause=500&color=24FF41&center=true&width=435&lines=%F0%9D%90%80%F0%9D%90%88+%F0%9D%90%81%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9D+%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%AD+%F0%9D%90%82%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%92%F0%9D%90%B2%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A6..." alt="Typing SVG" />
+  </a>
+</p>
 
 An end-to-end NLP/ML project for classifying college complaints, predicting urgency, extracting location, and finding similar previous complaints.
 
