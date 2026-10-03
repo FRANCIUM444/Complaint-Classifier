@@ -4,7 +4,7 @@
   </a>
 </p>
 
-An end-to-end NLP/ML project for classifying college complaints, predicting urgency, extracting location, and finding similar previous complaints.
+An end-to-end NLP/ML project for classifying complaints, predicting urgency, extracting location, and finding similar previous complaints.
 
 ## Features
 - Complaint category classification
