@@ -98,7 +98,7 @@ function PageHeading({eyebrow,title,description,action}:{eyebrow:string;title:st
   return <div className="page-heading"><div><div className="eyebrow"><span/>{eyebrow}</div><h1>{title}</h1><p>{description}</p></div>{action&&<div className="heading-action">{action}</div>}</div>
 }
 
-function Dashboard({user,notify}:{user:User;notify:(s:string)=>void}) {
+function Dashboard({user}:{user:User}) {
   const [items,setItems]=useState<Complaint[]>([])
   const [stats,setStats]=useState<{total:number;pending:number;in_progress:number;resolved:number;high_priority:number;resolution_rate:number;average_resolution_hours:number|null}|null>(null)
   const [loading,setLoading]=useState(true)
