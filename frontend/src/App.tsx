@@ -59,14 +59,14 @@ function App() {
     <main className="main-area">
       <header className="topbar"><button className="icon-btn mobile-menu" onClick={() => setMobileOpen(true)} aria-label="Open navigation"><Menu size={20}/></button><div className="breadcrumbs"><span>CampusCare</span><span className="crumb-slash">/</span><strong>Student portal</strong></div><div className="topbar-actions"><div className="secure-label"><span/> All systems operational</div><button className="icon-btn notification-btn" onClick={() => navigate('/notifications')} aria-label="Notifications"><Bell size={19}/><i/></button><div className="avatar avatar-indigo avatar-small">{user.name.split(' ').map(x=>x[0]).slice(0,2).join('').toUpperCase()}</div></div></header>
       <div className="page-wrap"><Routes>
-        <Route path="/" element={<Dashboard user={user} notify={notify}/>}/>
+        <Route path="/" element={<Dashboard user={user} />}/>
         <Route path="/complaints/new" element={<SubmitComplaint notify={notify}/>}/>
         <Route path="/complaints" element={<ComplaintHistory user={user} notify={notify}/>}/>
         <Route path="/community" element={<Community user={user} notify={notify}/>}/>
         <Route path="/analytics" element={<Analytics user={user}/>}/>
         <Route path="/notifications" element={<Notifications/>}/>
         <Route path="/settings" element={<Settings user={user} onSignOut={signOut}/>}/>
-        <Route path="*" element={<Dashboard user={user} notify={notify}/>}/>
+        <Route path="*" element={<Dashboard user={user} />}/>
       </Routes></div>
     </main>
     {toast && <div className="toast"><CheckCircle2 size={18}/>{toast}</div>}
